@@ -23,10 +23,10 @@ The given Employee dataset consist of 1200 rows. The features present in the dat
 
 * One of the important goal of this project is to find the important feature affecting the performance rating. The important features were predicted using the machine learning model feature importance technique. The main technique used in the preprocessing data using the Mannual & Frequency encoding method to convert the string - categorical data into numerical data, because, Most of machine learning methods are based on numerical methods where strings are not supportive. The overall project was performed and achieved the goals by using the machine learning model and visualization techniques.
 
-## 1. Requirement
+## 1. 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭
 The data was given from the IABAC for this project where the collected source is IABAC™. The data is based on INX Future Inc, (referred as INX ). It is one of the leading data analytics and automation solutions provider with over 15 years of global business presence. INX is consistently rated as top 20 best employers past 5 years. The data is not from the real organization. The whole project was done in Jupiter notebook with python platform.
 
-## 2. Analysis
+## 2. 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 Data were analyzed by describing the features present in the data. the features play the bigger part in the analysis. The features tell the relation between the dependent and independent variables. Pandas also help to describe the datasets answering following questions early in our project. The data present in the dataset are divided into numerical and categorical data.
 
 **Categorical Features**
@@ -66,7 +66,7 @@ EmpWorkLifeBalance
 PerformanceRating
 
 
-## 3.Univariate, Bivariate & Multivariate Analysis
+## 3.𝐔𝐧𝐢𝐯𝐚𝐫𝐢𝐚𝐭𝐞, 𝐁𝐢𝐯𝐚𝐫𝐢𝐚𝐭𝐞 & 𝐌𝐮𝐥𝐭𝐢𝐯𝐚𝐫𝐢𝐚𝐭𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 ### Library Used: Matplotlib & Seaborn
 ### Plots Used: Histplot, Lineplot, CountPlot, Barplot
