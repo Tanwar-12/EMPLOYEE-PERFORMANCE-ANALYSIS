@@ -239,7 +239,7 @@ The top three important features affecting the performance rating are ordered wi
 3. Artifical Neural Network [Multilayer percepton]: 95.80%
 
 
-# Goal 4: Recommendations to improve the employee performance
+# 𝐆𝐨𝐚𝐥 4: 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐢𝐦𝐩𝐫𝐨𝐯𝐞 𝐭𝐡𝐞 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
 
 The overall employee performance can be achieved by employee environment satisfaction. The company needs to focus more on the employee environment satisfaction.
 The salary hike will give the boost to the employees to perform well.
