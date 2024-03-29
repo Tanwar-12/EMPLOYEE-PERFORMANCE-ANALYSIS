@@ -181,14 +181,14 @@ Save model with the helpof pickle file
 
 
 ### Library Used:
-Pandas
-Numpy
-Matplotlib
-Seaborn
-pylab
-Scipy
-Sklearn
-Pickle
+1.Pandas
+2.Numpy
+3.Matplotlib
+4.Seaborn
+5.pylab
+6.Scipy
+7.Sklearn
+8.Pickle
 
 
 # Goal 1: Department Wise Performances
