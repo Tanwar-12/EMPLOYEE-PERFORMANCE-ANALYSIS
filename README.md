@@ -82,7 +82,7 @@ PerformanceRating
 There are some features are positively correlated with performance rating( Target variable) [Emp Environment Satisfaction,Emp Last Salary Hike Percent,Emp Work Life Balance]
 
 
-## 4.Explotary Data Analysis
+## 4.𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 **Basic Check & Statistical Measures***
 **Their is no constant column is present in Numerical as well as categoriacl data.**
 
