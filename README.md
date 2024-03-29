@@ -148,7 +148,7 @@ Principal component analysis (PCA) is a popular technique for analyzing large da
 
 5. Saving Pre-Process Data: save the all preprocess data in new file and add target feature to it.
 
-## 7.Machine learning Model Creation & Evaluation
+## 7.𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐥 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 & 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧
 1. Define Dependant and Independant Features:
 
 2. Balancing the data: The data is imbalance, so we need to balance the data with the help of SMOTE
