@@ -171,7 +171,7 @@ Principal component analysis (PCA) is a popular technique for analyzing large da
 So we are select Artifical neuranl network [Multilayer percepton] model.
 
 
-## 8.Saving Model
+## 8.𝐒𝐚𝐯𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐥
 Save model with the helpof pickle file
 
 
