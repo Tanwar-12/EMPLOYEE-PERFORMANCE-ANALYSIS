@@ -10,9 +10,9 @@
 **The Data science project which is given here is an analysis of employee performance**
 
 # 𝐓𝐡𝐞 𝐆𝐨𝐚𝐥 𝐚𝐧𝐝 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐚𝐫𝐞 𝐚𝐬 𝐟𝐨𝐥𝐥𝐨𝐰𝐬:
-## Department wise performances
-## Top 3 Important Factors effecting employee performance
 
+### 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭 𝐰𝐢𝐬𝐞 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞𝐬
+### 𝐓𝐨𝐩 3 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐅𝐚𝐜𝐭𝐨𝐫𝐬 𝐞𝐟𝐟𝐞𝐜𝐭𝐢𝐧𝐠 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
 * A trained model which can predict the employee performance based on factors as inputs. This will be used to hire employees
 Recommendations to improve the employee performance based on insights from analysis
 The given Employee dataset consist of 1200 rows. The features present in the data are 28 columns. The shape of the dataset is 1200x28. The 28 features are classified into quantitative and qualitative where 19 features are quantitative (11 columns consists numeric data & 8 columns consists ordinal data) and 8 features are qualitative. EmpNumber consist alphanumerical data (distinct values) which doesn't play a role as a relevant feature for performance rating.
