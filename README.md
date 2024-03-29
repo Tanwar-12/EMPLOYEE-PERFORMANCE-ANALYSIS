@@ -9,8 +9,7 @@
 
 **The Data science project which is given here is an analysis of employee performance**
 
-# The Goal and Insights of the project are as follows:
-
+# 𝐓𝐡𝐞 𝐆𝐨𝐚𝐥 𝐚𝐧𝐝 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐚𝐫𝐞 𝐚𝐬 𝐟𝐨𝐥𝐥𝐨𝐰𝐬:
 ## Department wise performances
 ## Top 3 Important Factors effecting employee performance
 
