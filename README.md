@@ -42,8 +42,8 @@ Data were analyzed by describing the features present in the data. the features 
 
 
 **Numerical Features**
-*Age
-*DistanceFromHome
+* Age
+* Distance From Home
 * EmpHourlyRate
 * NumCompaniesWorked
 * EmpLastSalaryHikePercent
