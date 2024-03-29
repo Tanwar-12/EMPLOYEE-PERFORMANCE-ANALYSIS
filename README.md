@@ -110,7 +110,7 @@ In General, Most of Employees work up to 5 years in this company. Most of the em
 * Distribution of Standard Deviation of Data
 1. Distribution of standard deviation of data also look like guassian distribution around 30% of feature standard deviation around the range of 3 3 to 20 and remaining 70% feature standard deviation in between 0 to 2
 
-## 5.Data Pre-Processing
+## 5.𝐃𝐚𝐭𝐚 𝐏𝐫𝐞-𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠
 1. Check Missing Value: Their is no missing value in data
 
 2. Categorical Data Conversion: Handel categorical data with the help of frequency and mannual encoding, because feature is contain lot's of labels
