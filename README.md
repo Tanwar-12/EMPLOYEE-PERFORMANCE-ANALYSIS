@@ -198,7 +198,7 @@ Save model with the helpof pickle file
 8.Pickle
 
 
-# Goal 1: Department Wise Performances
+# 𝐆𝐨𝐚𝐥 1: 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭 𝐖𝐢𝐬𝐞 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞𝐬
 
 **PLOT USED**
 
@@ -217,6 +217,7 @@ Sales: The Performace rating level 3 is more in the sales department. The male p
 * Finance: The finance department performance is exponentially decreasing when age increases. The male employees are doing good. The experience factor is inversely relating to the performance level.
 
 # Goal 2: Top 3 Important Factors effecting employee performance
+
 The top three important features affecting the performance rating are ordered with their importance level as follows,
 
 1. Employment Environment Satisfaction
