@@ -216,7 +216,7 @@ Sales: The Performace rating level 3 is more in the sales department. The male p
 
 * Finance: The finance department performance is exponentially decreasing when age increases. The male employees are doing good. The experience factor is inversely relating to the performance level.
 
-# Goal 2: Top 3 Important Factors effecting employee performance
+# 𝐆𝐨𝐚𝐥 2: 𝐓𝐨𝐩 3 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐅𝐚𝐜𝐭𝐨𝐫𝐬 𝐞𝐟𝐟𝐞𝐜𝐭𝐢𝐧𝐠 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
 
 The top three important features affecting the performance rating are ordered with their importance level as follows,
 
@@ -231,6 +231,7 @@ The top three important features affecting the performance rating are ordered wi
 * Employee work life balance: In EmpWorkLifeBalance, level 3 is showing high Performance Rating of employees
 
 # Goal 3: A Trained model which can predict the employee performance
+
 **The trained model is created using the machine learning algorithm as follows with the accuracy score**
 
 1. Support Vector Classifier: 98.28% accuracy
