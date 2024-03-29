@@ -1,8 +1,8 @@
 # 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 
 
+## 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐔𝐌𝐌𝐀𝐑𝐘 :
 
 
-## PROJECT SUMMARY:
 ### GOAL OF PROJECT: BASED ON GIVEN FEATURE OF DATASET WE NEED TO PREDICT THE PERFOMANCE RATING OF EMPLOYEE
 **INX Future Inc Employee Performance - Project**
 
