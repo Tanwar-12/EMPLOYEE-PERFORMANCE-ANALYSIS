@@ -1,8 +1,8 @@
 # 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 
 
-![IABAC ](https://github.com/Tanwar-12/Employees-performance-analysis/assets/110081008/ade1cc46-035f-4b51-9411-c0a27f75d95d)
-
+![IABAC  (1)](https://github.com/Tanwar-12/Employees-performance-analysis/assets/110081008/149dcd3f-626f-43ac-8c35-081aaaf85122)
 ## 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐔𝐌𝐌𝐀𝐑𝐘 :
+
 
 
 ###  𝐆𝐎𝐀𝐋 𝐎𝐅 𝐏𝐑𝐎𝐉𝐄𝐂𝐓: Based On Given Features of Data set we need to predict the performance rating of employee.
