@@ -1,5 +1,7 @@
 # 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 
 
+![IABAC ](https://github.com/Tanwar-12/Employees-performance-analysis/assets/110081008/ade1cc46-035f-4b51-9411-c0a27f75d95d)
+
 ## 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐔𝐌𝐌𝐀𝐑𝐘 :
 
 
