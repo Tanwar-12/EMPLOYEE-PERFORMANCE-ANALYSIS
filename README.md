@@ -59,20 +59,24 @@ Data were analyzed by describing the features present in the data. the features 
 
 
 **Ordinal Features**
-EmpEducationLevel
-EmpEnvironmentSatisfaction
-EmpJobInvolvement
-EmpJobLevel
-EmpJobSatisfaction
-EmpRelationshipSatisfaction
-EmpWorkLifeBalance
-PerformanceRating
+* EmpEducationLevel
+* EmpEnvironmentSatisfaction
+* EmpJobInvolvement
+* EmpJobLevel
+* EmpJobSatisfaction
+* EmpRelationshipSatisfaction
+* EmpWorkLifeBalance
+* PerformanceRating
 
 
 ## 3.𝐔𝐧𝐢𝐯𝐚𝐫𝐢𝐚𝐭𝐞, 𝐁𝐢𝐯𝐚𝐫𝐢𝐚𝐭𝐞 & 𝐌𝐮𝐥𝐭𝐢𝐯𝐚𝐫𝐢𝐚𝐭𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 ### Library Used: Matplotlib & Seaborn
-### Plots Used: Histplot, Lineplot, CountPlot, Barplot
+### Plots Used: 
+* Histplot
+* Lineplot
+* CountPlot
+* Barplot
 ### Tip: All Observation or insights written below the plots
 
 * Univariate Analysis: In univariate analysis we get the unique labels of categorical features, as well as get the range & density of numbers
@@ -92,16 +96,16 @@ There are some features are positively correlated with performance rating( Targe
 * Their is no constant column is present in Numerical as well as categoriacl data.
 
 ### Distribution of Continuous Features:
-In general, one of the first few steps in exploring the data would be to have a rough idea of how the features are distributed with one another. To do so, we shall invoke the familiar distplot function from the Seaborn plotting library. The distribution has been done by both numerical features. it will show the overall idea about the density and majority of data present in a different level.
+* In general, one of the first few steps in exploring the data would be to have a rough idea of how the features are distributed with one another. To do so, we shall invoke the familiar distplot function from the Seaborn plotting library. The distribution has been done by both numerical features. it will show the overall idea about the density and majority of data present in a different level.
 
-The age distribution is starting from 18 to 60 where the most of the employees are laying between 30 to 40 age count
+* The age distribution is starting from 18 to 60 where the most of the employees are laying between 30 to 40 age count
 Employees are worked in the multiple companies up to 8 companies where most of the employees worked up to 2 companies before getting to work here.
 The hourly rate range is 65 to 95 for majority employees work in this company.
 In General, Most of Employees work up to 5 years in this company. Most of the employees get 11% to 15% of salary hike in this company.
 
 
 ## Check Skewness and Kurtosis of Numerical Features
-* Checking weather the data is Normally distributed or Not with Skewness and Kurtosis**
+**Checking weather the data is Normally distributed or Not with Skewness and Kurtosis**
 
 ### YearsSinceLastPromotion, This column is skewed
 
@@ -182,7 +186,7 @@ Save model with the helpof pickle file
 
 ## Tools and Library Used:
 ### Tools:
-**Jupyter**
+* Jupyter
 
 
 ### Library Used:
@@ -246,9 +250,9 @@ The top three important features affecting the performance rating are ordered wi
 
 # 𝐆𝐨𝐚𝐥 4: 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐢𝐦𝐩𝐫𝐨𝐯𝐞 𝐭𝐡𝐞 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
 
-The overall employee performance can be achieved by employee environment satisfaction. The company needs to focus more on the employee environment satisfaction.
+* The overall employee performance can be achieved by employee environment satisfaction. The company needs to focus more on the employee environment satisfaction.
 The salary hike will give the boost to the employees to perform well.
 Promote the employee ervery 6th month
-Improve Employee's work-life balance this affects the performance rating.
+* Improve Employee's work-life balance this affects the performance rating.
 While recruiting for HR, consider the female candidates where they perform well compared to male.
 The development and sales department is having an overall higher performance comparing to rest of the departments. While some of the employees who gives feedback like Low & Medium from Job Satisfaction & Relationship Satisfaction feature, such employees gives Excellent performance more in number. So company should focus on them.
