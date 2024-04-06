@@ -7,7 +7,7 @@
 
 ###  𝐆𝐎𝐀𝐋 𝐎𝐅 𝐏𝐑𝐎𝐉𝐄𝐂𝐓: Based On Given Features of Data set we need to predict the performance rating of employee.
 
-**INX Future Inc Employee Performance - Project**
+**PROJECT :- INX Future Inc Employee Performance**
 
 **The Data science project which is given here is an analysis of employee performance**
 
