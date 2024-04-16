@@ -128,11 +128,12 @@ In General, Most of Employees work up to 5 years in this company. Most of the em
 
 * Frequency Encoding: Frequency encoding is an encoding technique to transform an original categorical variable to a numerical variable by considering the frequency distribution of the data getting value counts.
 
-3. Outlier Handling Some features are contain outliers so we are impute this outlier with the help of IQR because in all features data is not normally distributed
+3. Outlier Handling: Some features are contain outliers so we are impute this outlier with the help of IQR because in all features data is not normally distributed
 
 4. Feature Transformation: In YearsSinceLastPromotion some skewed & kurtosis is present, so we are use Square Root Transformation techinque
 
 * Square root transformation: Square root transformation is one of the many types of standard transformations.This transformation is used for count data (data that follow a Poisson distribution) or small whole numbers. Each data point is replaced by its square root. Negative data is converted to positive by adding a constant, and then transformed.
+
 * Q-Q Plot: Q–Q plot is a probability plot, a graphical method for comparing two probability distributions by plotting their quantiles against each other.
 
 
@@ -143,7 +144,7 @@ In General, Most of Employees work up to 5 years in this company. Most of the em
 
 ## 6.𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧
 
-1.  Drop unique and constant feature: Dropping employee number because this is a constant column as well as drop Years Since Last Promotion because we create a new feaure using square root transformation
+1.  Drop unique and constant feature: Dropping employee number because this is a constant column as well as drop Years Since Last Promotion because we create a new feaure using square root transformation.
 
 2. Checking Correlation: Checking correlation with the help of heat map, and get the their is no highly correlated feature is present.
 
@@ -181,7 +182,7 @@ So we are select Artifical neuranl network [Multilayer percepton] model.
 
 
 ## 8.𝐒𝐚𝐯𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐥
-Save model with the helpof pickle file
+Save model with the help of pickle file.
 
 
 ## Tools and Library Used:
