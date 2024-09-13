@@ -253,7 +253,7 @@ The top three important features affecting the performance rating are ordered wi
 
 * The overall employee performance can be achieved by employee environment satisfaction. The company needs to focus more on the employee environment satisfaction.
 The salary hike will give the boost to the employees to perform well.
-Promote the employee ervery 6th month
+Promote the employee every 6th month.
 * Improve Employee's work-life balance this affects the performance rating.
 While recruiting for HR, consider the female candidates where they perform well compared to male.
 The development and sales department is having an overall higher performance comparing to rest of the departments. While some of the employees who gives feedback like Low & Medium from Job Satisfaction & Relationship Satisfaction feature, such employees gives Excellent performance more in number. So company should focus on them.
