@@ -1,6 +1,6 @@
-
-# **Project Summary:**
-## Goal: Predict employee performance rating based on dataset features.
+# EMPLOYEE PERFORMANCE ANALYSIS 
+## **Project Summary:**
+### Goal: Predict employee performance rating based on dataset features.
 - **Dataset**: INX Future Inc (IABAC). 1200 rows, 28 features.
 - **Key Insights**: Department-wise performance, top factors affecting employee performance, trained model for prediction, and recommendations to improve performance.
 
