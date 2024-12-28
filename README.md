@@ -1,4 +1,7 @@
 # EMPLOYEE PERFORMANCE ANALYSIS 
+
+![image](https://github.com/user-attachments/assets/c7056587-b207-4f85-84b1-9bc6ae8bd168)
+
 ## **Project Summary:**
 ### Goal: Predict employee performance rating based on dataset features.
 - **Dataset**: INX Future Inc (IABAC). 1200 rows, 28 features.
